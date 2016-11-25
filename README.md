@@ -58,10 +58,16 @@ license: (ISC)
 #Installing Required Node packages using node package manager (npm)
 
 npm install --save express 
+
 npm install --save mongoose
+
 npm install --save mysql
+
 npm install --save node-restful
+
 npm install --save method-override
+
 npm install --save body-parser
+
 npm install --save loadash
 
