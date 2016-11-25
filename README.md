@@ -1,8 +1,8 @@
-# meanvideoapp
+# MEAN Video Application
 Exploring Mean Stack Application:
 
-MEAN Application.
-Setting up Environment:
+#Setting up Environment:
+
 1.	Install Ruby
 https://rubyinstaller.org/downloads/
 rubyinstaller-2.3.1.exe
@@ -25,8 +25,7 @@ Or
 Run wampstart.exe for mysql
 
 
-Server Application Setup
-#Create  directory structure
+#Server Application Setup
 
 mkdir meanapp
 mkdir server
