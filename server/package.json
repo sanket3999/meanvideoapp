@@ -1,0 +1,23 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "version": "1.0.0",
+  "description": "A M.E.A.N application.",
+  "license": "SEE LICENSE IN <License.md>",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "method-override": "^2.3.6",
+    "mysql": "~2.5.0",
+    "sequelize": "~1.7.0",
+    "crypto": "~0.0.3",
+    "lodash": "^4.16.6",
+    "resourcejs": "^0.1.25"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/sanket3999/meanvideoapp.git"
+}
+}
+
+

@@ -1,0 +1,10 @@
+{
+  "name": "mean-app",
+  "version": "0.0.0",
+  "description": "MeanApp",
+  "main": "server.js",
+  "author": {
+    "name": "js",
+    "email": ""
+  }
+}
