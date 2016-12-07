@@ -1,2 +1,4 @@
 D:\Sanket\NodeProjects\MeanApp\MeanApp\obj\Debug\MeanApp.njsprojResolveAssemblyReference.cache
 D:\Sanket\NodeProjects\MeanApp\MeanApp\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Sanket\NodeProjects\meanvideoapp\obj\Debug\MeanApp.njsprojResolveAssemblyReference.cache
+D:\Sanket\NodeProjects\meanvideoapp\bin\Microsoft.NodejsTools.WebRole.dll

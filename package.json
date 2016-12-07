@@ -6,5 +6,8 @@
   "author": {
     "name": "js",
     "email": ""
+  },
+  "dependencies": {
+    "filed": "^0.1.0"
   }
 }
